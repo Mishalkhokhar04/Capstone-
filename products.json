@@ -1,0 +1,110 @@
+[
+  {
+    "id": 101,
+    "title": "Canvas Field Jacket",
+    "price": 89.99,
+    "description": "A durable waxed-canvas jacket with brass hardware and a corduroy collar. Built for weekend hikes and city commutes alike.",
+    "category": "men's clothing",
+    "image": "https://picsum.photos/seed/jacket/400/400",
+    "rating": { "rate": 4.3, "count": 214 }
+  },
+  {
+    "id": 102,
+    "title": "Merino Wool Crew Sweater",
+    "price": 64.5,
+    "description": "Naturally breathable merino wool, knitted in a classic crew silhouette. Layers well under a shell in colder months.",
+    "category": "men's clothing",
+    "image": "https://picsum.photos/seed/sweater/400/400",
+    "rating": { "rate": 4.1, "count": 132 }
+  },
+  {
+    "id": 103,
+    "title": "Linen Wrap Dress",
+    "price": 72.0,
+    "description": "A relaxed-fit wrap dress in washed linen, cut for warm days and easy movement.",
+    "category": "women's clothing",
+    "image": "https://picsum.photos/seed/dress/400/400",
+    "rating": { "rate": 4.6, "count": 301 }
+  },
+  {
+    "id": 104,
+    "title": "High-Rise Straight Jean",
+    "price": 58.0,
+    "description": "Rigid cotton denim that softens with wear, cut with a high rise and a straight leg through the ankle.",
+    "category": "women's clothing",
+    "image": "https://picsum.photos/seed/jeans/400/400",
+    "rating": { "rate": 4.0, "count": 189 }
+  },
+  {
+    "id": 105,
+    "title": "Wireless Noise-Cancelling Headphones",
+    "price": 149.0,
+    "description": "Over-ear headphones with active noise cancellation and 30-hour battery life. Foldable hinge for travel.",
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/headphones/400/400",
+    "rating": { "rate": 4.5, "count": 872 }
+  },
+  {
+    "id": 106,
+    "title": "Mechanical Keyboard, Low-Profile",
+    "price": 119.0,
+    "description": "Hot-swappable switches, a machined aluminum frame, and per-key backlighting in a compact 75% layout.",
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/keyboard/400/400",
+    "rating": { "rate": 4.7, "count": 456 }
+  },
+  {
+    "id": 107,
+    "title": "Portable Espresso Maker",
+    "price": 45.0,
+    "description": "Manual, battery-free espresso maker for camping, travel, or a desk without an outlet nearby.",
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/espresso/400/400",
+    "rating": { "rate": 4.2, "count": 98 }
+  },
+  {
+    "id": 108,
+    "title": "Sterling Silver Hoop Earrings",
+    "price": 34.0,
+    "description": "Hand-finished sterling silver hoops, lightweight enough for everyday wear.",
+    "category": "jewelery",
+    "image": "https://picsum.photos/seed/earrings/400/400",
+    "rating": { "rate": 4.4, "count": 210 }
+  },
+  {
+    "id": 109,
+    "title": "Minimalist Titanium Watch",
+    "price": 165.0,
+    "description": "A brushed titanium case with a sapphire crystal face and an interchangeable leather strap.",
+    "category": "jewelery",
+    "image": "https://picsum.photos/seed/watch/400/400",
+    "rating": { "rate": 4.8, "count": 340 }
+  },
+  {
+    "id": 110,
+    "title": "Enamel Camp Mug",
+    "price": 14.0,
+    "description": "A classic enamel mug that takes the campfire well and stacks neatly in a cupboard.",
+    "category": "electronics",
+    "image": "https://picsum.photos/seed/mug/400/400",
+    "rating": { "rate": 4.0, "count": 76 }
+  },
+  {
+    "id": 111,
+    "title": "Recycled Nylon Backpack",
+    "price": 78.0,
+    "description": "A 22-liter daypack made from recycled ripstop nylon, with a padded 15-inch laptop sleeve.",
+    "category": "men's clothing",
+    "image": "https://picsum.photos/seed/backpack/400/400",
+    "rating": { "rate": 4.3, "count": 267 }
+  },
+  {
+    "id": 112,
+    "title": "Silk Scarf, Botanical Print",
+    "price": 39.0,
+    "description": "A square silk scarf printed with a hand-painted botanical pattern, finished with rolled edges.",
+    "category": "women's clothing",
+    "image": "https://picsum.photos/seed/scarf/400/400",
+    "rating": { "rate": 4.5, "count": 143 }
+  }
+]
